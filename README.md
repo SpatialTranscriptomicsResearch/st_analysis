@@ -1,3 +1,5 @@
+## THIS VERSION IS DEPRECATED, PLEASE GO TO https://github.com/jfnavarro/st_analysis FOR THE MOST UPDATED VERSION
+
 # Spatial Transcriptomics Analysis 
 
 Different tools for visualization, processing and analysis (supervised and un-supervised learning,
